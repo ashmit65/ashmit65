@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>– Full-stack web projects using React, Node.js, and databases  <br><br>👯 I’m looking to collaborate on  <br>– Open-source projects where I can learn and contribute  <br><br>🤝 I’m looking for help with  <br>– Advanced React patterns and backend architecture  <br><br>🌱 I’m currently learning  <br>– React, PostgreSQL, Java (DSA), and system fundamentals  <br><br>💬 Ask me about  <br>– JavaScript, React basics, REST APIs, and DSA fundamentals  <br><br>⚡ Fun fact  <br>– Curious by nature and always learning<br>
+🔭 I’m currently working on  <br>– Full-stack web projects using React, Node.js, and databases  <br><br>👯 I’m looking to collaborate on  <br>– Open-source projects where I can learn and contribute  <br><br>🤝 I’m looking for help with  <br>– Advanced React patterns and backend architecture  <br><br>🌱 I’m currently learning  <br>– React, PostgreSQL, Java (DSA), and system fundamentals  <br><br>💬 Ask me about  <br>– JavaScript, React, REST APIs, and DSA fundamentals  <br><br>⚡ Fun fact  <br>– Curious by nature and always learning<br>
 
 
 ## 🌐 Socials:
