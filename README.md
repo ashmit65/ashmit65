@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 Hi! I'm **Asmit Singh** 👋  
 I'm a passionate **Full-Stack Web Developer** building modern web apps with **React, Node.js, and Databases**.
